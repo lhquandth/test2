@@ -1,0 +1,22 @@
+
+aside {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  width: 30%;
+  background-color: powderblue;
+}
+article {
+  float: left;
+  width: 60%;
+  background-color: pink;
+}
+
+p {
+  border-left: 6px solid green;
+  background-color: lightgrey;
+}
+section {
+  border: 2px solid blue;
+  border-radius: 5px;
+}
